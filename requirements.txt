@@ -4,3 +4,4 @@ statsmodels>=0.13.0
 scipy>=1.7.0
 openpyxl>=3.0.0
 matplotlib>=3.5.0
+streamlit>=1.30.0
